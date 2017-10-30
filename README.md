@@ -11,7 +11,7 @@ Scraping is all about reading the mark-up language (content-formatting) of a web
 
 format of scraping is sending request to a website, Im using superagent to do that. Use a second tool to access the elements of the webpage, this is where the data collection happens. 
 
-
+The process of entering a website and extracting data in an automated fashion is also often called "crawling".
 
 ### Puppeteer
 
@@ -22,7 +22,7 @@ developed by google, by the chromes dev-tools team. God bless their inspect and 
 talk about my little play around with puppeteer. crashed a computer trying to save 151 screenshots. Would have been much more efficient saving 151 img sources to an array then rendering on a webpage.
 
 Generate screenshots and PDFs of pages.
-Crawl a SPA and generate pre-rendered content (i.e. "SSR").
+Crawl a Single Page Application and generate pre-rendered content (i.e. "SSR").
 Scrape content from websites.
 Automate form submission, UI testing, keyboard input, etc.
 Create an up-to-date, automated testing environment. Run your tests directly in the latest version of Chrome using the latest JavaScript and browser features.
@@ -62,7 +62,17 @@ super nice tool wowee, no large dependencies which is a bonus over cheerio and p
 
 automation - testing - information gathering idk :)
 
+malicious scraping:
+
+undercut prices and steal web content.
+captchas
+robots.txt
+
+search engines like google gather and agregate data from websites to use. 
+
 ### Conclusion: 
 scraping has a vigilante feel. Independent hackerman
+
+I need to break this down into bulletpoints and fast
 
 ![hackerman picutre](http://i0.kym-cdn.com/entries/icons/original/000/021/807/4d7.png)
