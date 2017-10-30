@@ -6,6 +6,10 @@ pre-intro, why did I choose this topic: learning about api's i took on board the
 
 intro - write last, to introduce the stuff you come up with
 
+format of scraping is sending request to a website, Im using superagent to do that. Use a second tool to access the elements of the webpage, this is where the real scraping happens. 
+
+
+
 Puppeteer - my scraping
 Generate screenshots and PDFs of pages.
 Crawl a SPA and generate pre-rendered content (i.e. "SSR").
@@ -20,7 +24,7 @@ https://github.com/GoogleChrome/puppeteer
 Cheerio - harrison scraping
 
 
-osmosis
+osmosis super nice tool wowee, no large dependencies which is a bonus over cheerio and puppeteer.
 
 scrapy python
 
@@ -30,3 +34,6 @@ I'd also like to talk about scraping. why its used, its origins and other weird 
 
 automation - testing - information gathering idk :)
 
+Conclusion: scraping has a vigilante feel. Independent hackerman
+
+[hackerman](http://i0.kym-cdn.com/entries/icons/original/000/021/807/4d7.png)
