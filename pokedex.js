@@ -5,6 +5,7 @@ const pokemon = ['bulbasaur', 'charmander', 'mewtwo', 'jolteon', 'exeggutor']
 
 pokemon.forEach(name => getData(name))
 
+// function start () {
 async function getData (pokemon) {
   const browser = await puppeteer.launch()
   const page = await browser.newPage()
@@ -15,3 +16,5 @@ async function getData (pokemon) {
 
   await browser.close()
 }
+//   start()
+// }
