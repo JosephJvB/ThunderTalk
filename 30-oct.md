@@ -36,4 +36,4 @@ automation - testing - information gathering idk :)
 
 Conclusion: scraping has a vigilante feel. Independent hackerman
 
-[hackerman](http://i0.kym-cdn.com/entries/icons/original/000/021/807/4d7.png)
+![hackerman picutre](http://i0.kym-cdn.com/entries/icons/original/000/021/807/4d7.png)
