@@ -2,7 +2,7 @@
 
 ### Why did I choose web scraping?
 * Data is cool.
-* automation.
+* Automation.
 * Harrison.
 
 ### What is web scraping?
@@ -29,18 +29,19 @@
     * Capture a timeline trace of your site to help diagnose performance issues.
 
 
-
 ### Cheerio
 
 ![cheerio pic](https://pbs.twimg.com/media/ChHRi65WYAEmUuZ.jpg)
 
-Server side tool
-few ways to access specific elements. 
-* ```('.picture')``` will refer to elements with class of picture
-* ```('#bananas')``` will refer to elements with id='bananas' 
-* ```('input[type='text']')``` will refer to input elements with a type of text
+* Server side tool
+* Specifically for parsing, manipulating and rendering the DOM.
 
-Harrison has been using cheerio for his scraping projects. It doesnt have all the functionality of puppeteer's screenshots and pdf docs, but it is a fine choice for other stuff. And often times the data that exists in the html of a page is enough, rather than save screenshots, if you can scrape the source of an image
+* CSS Hooks: 
+  * ```('.picture')``` will refer to elements with class of picture
+  * ```('#bananas')``` will refer to elements with id='bananas' 
+  * ```('input[type='text']')``` will refer to input elements with a type of text
+
+> Show cheerio.js
 
 
 ### Other Scrape Tools:
@@ -49,19 +50,21 @@ Harrison has been using cheerio for his scraping projects. It doesnt have all th
 
 * phantomJS
 
-* osmosis 
+* osmosis
 
-* scrapy python
+* scrapy -> python
 
-automation - testing - information gathering idk :)
+* ZombieJS
 
-malicious scraping:
+automation - testing - information
+
+* malicious scraping:
 
 undercut prices and steal web content.
 captchas
 robots.txt
 
-search engines like google gather and agregate data from websites to use. 
+Search engines like google gather and agregate data from websites to use. 
 
 ### Conclusion: 
 scraping has a vigilante feel. Independent hackerman
