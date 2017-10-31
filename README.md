@@ -20,6 +20,8 @@
 * My first scraping experience.
  > show pokedex.js
 
+* Headless Browser
+
 * Puppeteer's toolkit:
     * Generate screenshots and PDFs of pages.
     * Crawl a Single Page Application and generate pre-rendered content (i.e. "SSR").
@@ -60,13 +62,22 @@ automation - testing - information
 
 * malicious scraping:
 
-undercut prices and steal web content.
-captchas
-robots.txt
+    * undercut prices of online stores and steal web content.
+    * captchas
+    * robots.txt
+    * Mess with Search Engine Optimization
+      * link-farms
+      * spam blogs
 
-Search engines like google gather and agregate data from websites to use. 
+Search engines like google gather and agregate data from websites to generate search results. 
 
 ### Conclusion: 
-scraping has a vigilante feel. Independent hackerman
+
+* Scraping is super fun.
+
+* It's not necessary to scrape data that is already available from an API. 
+  * can be used with an API to retrieve cool data.
+
+Hack the planet:
 
 ![hackerman picutre](http://i0.kym-cdn.com/entries/icons/original/000/021/807/4d7.png)
